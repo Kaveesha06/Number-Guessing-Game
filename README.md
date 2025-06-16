@@ -29,7 +29,7 @@ Welcome to my first Python project! This is a **command-line based Number Guessi
 - Guess correctly before your attempts run out!
 
   ## 🎲 Result  (example):-
-
+--
     ===========================================
     Welcome to the Number Guessing Game!
     ===========================================

@@ -35,5 +35,4 @@ Welcome to my first Python project! This is a **command-line based Number Guessi
 
 
 
-
-[url:- (https://github.com/Kaveesha06/Number-Guessing-Game)]
+[project from : https://roadmap.sh/projects/number-guessing-game]
